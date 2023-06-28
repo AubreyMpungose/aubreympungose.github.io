@@ -1,0 +1,42 @@
+---
+title: "Research"
+listing:
+  contents: talks
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, description, title, reading-time, categories, image, Location, Venue]
+  feed: false
+page-layout: full
+title-block-banner: false
+---
+
+I am interested in data science and computational social science. My research can be summarised in four words: political, social, space, data!. Specifically, I research on:
+
+::: {.grid}
+
+::: {.g-col-6}
+
+- Political economy
+
+- Neighbourhood contexts (education outcomes, health, deprivation)
+
+- Political participation (protest, elections, behaviour)
+
+:::
+  
+::: {.g-col-6}
+
+- Youth studies
+
+- Social theory (Foucault ❤️, Agamben, governance, markets)
+
+- Political geography
+:::
+  
+::: 
+
+## **PUBLICATIONS**
+

@@ -1,11 +1,49 @@
 ---
-title: "aubrey_website"
+title: Welcome to data science, politics, social
+comments: False
+format:
+  html:
+    page-layout: full
+listing:
+  - id: landing-posts
+    contents: posts
+    type: default
+    max-items: 3
+    sort: 
+      - "date desc"
+      - "title asc"
+about:
+  id: about-me
+  template: solana
+  image: aubrey.jpg
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/AubreyMpungose
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/AubreyMabona
+    - icon: envelope
+      text: Email
+      href: mailto:mpungoseaubrey.com
 ---
 
-This is a Quarto website.
+:::{#about-me}
+I am social scientist and a geographer interested in data science. My big research question is: **"how can we understand the social and political sphere in  the digital age?"**. I try to provide answers this question by using large quantitative, text, digital trace data and computational methods. In this blog, I share my opinions on data science and (South Africa) political and social dynamics.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Read more about me [here](about.qmd).
 
-```{r}
-1 + 1
-```
+
+:::
+Check out the latest draft of my course - ["Data Science in R"](https://aubreympungose.github.io/data-science-course/). If you enjoy the content, please consider giving it a star✨ on [Github](hhttps://github.com/aubreympungose/data-science-course).
+
+:::::{.grid}
+::::{.g-col-12 .g-col-md-12}
+## Latest Blogs
+Click [here](blog.qmd) to check out more blogs.
+
+:::{#landing-posts}
+:::
+::::
+:::::

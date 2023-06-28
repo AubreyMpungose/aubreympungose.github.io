@@ -1,9 +1,135 @@
 ---
-title: "About"
+title: "Aubrey Mpungose"
+about:
+  template: solana
+  image: aubrey.jpg
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/AubreyMpungose
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/AubreyMabona
+    - icon: envelope
+      text: Email
+      href: mailto:mpungoseaubrey.com
+comments: false
+page-layout: full
 ---
 
-About this site
+I am a social scientist and geographer based at the University of KwaZulu Natal, South Africa. I am interested in data science and computational social science. My research can be summarised in four words: political, social, space, data!. Specifically, I research on:
 
-```{r}
-1 + 1
-```
+::: {.grid}
+
+::: {.g-col-6}
+
+- Political economy
+
+- Neighbourhood contexts (education outcomes, health, deprivation)
+
+- Political participation (protest, elections, behaviour)
+
+:::
+  
+::: {.g-col-6}
+
+- Youth studies
+
+- Social theory (Foucault ❤️, Agamben, governance, markets)
+
+- Political geography
+:::
+  
+::: 
+
+
+I use data science tools, computational methods and statistical methods in my research. I enjoy programming in R and Python. I have extensive research experience and been involved in various research projects focusing on Innovation for Development and Social and Economic Impact Assessment and Evaluation.
+
+::::{.panel-tabset}
+
+# Experience
+
+::: {.d-flex .justify-content-between}
+::: {}
+**University of KwaZulu Natal, South Africa**  
+*Lecturer*
+:::
+::: {.text-end}
+June 2018 - Present
+:::
+:::
+I teach in the School of Education, Education and Development discipline. My teaching focuses on development studies, the role of education in development and sustainability challenges.
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Human Science Research Council, South Africa**  
+*Junior Researcher*
+:::
+::: {.text-end}
+2015 - 2017
+:::
+:::
+- I was involved in large research pojects, and my roles involved:
+
+    - collecting survey data
+    
+    - Analysisng data
+    
+    - Writing reports
+
+
+# Education
+
+
+::: {.d-flex .justify-content-between}
+::: {}
+**University of KwaZulu Natal, Durban, South Africa**  
+*PhD in Geography* 
+
+*Thesis title: The politics of disposable life: youth precarity, waithood and uncertainty*
+:::
+::: {.text-end}
+2019-Present
+:::
+:::
+
+::: {.d-flex .justify-content-between}
+::: {}
+**University of KwaZulu Natal, Durban, South Africa**  
+*MSc in Geography (First class)* 
+
+*Thesis title: The politics of megaprojects : assessing the socio-spatial and environmental impacts of the proposed dig-out port in south Durban*
+:::
+::: {.text-end}
+2017
+:::
+:::
+
+::: {.d-flex .justify-content-between}
+::: {}
+**University of KwaZulu Natal, Durban, South Africa**  
+*BSc Honours in Geography & Environmental Management* 
+:::
+::: {.text-end}
+2014
+:::
+:::
+
+# Technical and Programming Skills
+
+- Programming in R
+
+- Programming in Python 
+
+- Git and GitHub
+
+- Statistical Modelling
+
+- Machine Learning
+
+- Natural Language Processing
+
+- Computational Text Analysis
+::::

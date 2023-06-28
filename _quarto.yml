@@ -1,17 +1,48 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "aubrey_website"
+  title: "Aubrey Mpungose"
   navbar:
+    pinned: True
+    collapse-below: lg
     left:
-      - href: index.qmd
+      - icon: house
+        href: index.qmd
         text: Home
-      - about.qmd
+      - icon: newspaper
+        href: blog.qmd
+        text: Blog
+      - icon: megaphone
+        href: talks.qmd
+        text: Talks
+      - icon: book
+        href: teaching.qmd
+        text: Teaching
+      - icon: book
+        href: research.qmd
+        text: Research
+      - icon: file-person
+        href: about.qmd
+        text: About Me
+
+    right:
+      - icon: github
+        href: https://github.com/AubreyMpungose
+      - icon: twitter
+        href: https://twitter.com/AubreyMabona
+      - icon: envelope
+        href: mailto:mpungoseaubrey.com
+      - icon: rss
+        href: blog.xml
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: sandstone
+      dark: cyborg
+    mainfont: Roboto
     css: styles.css
     toc: true
 

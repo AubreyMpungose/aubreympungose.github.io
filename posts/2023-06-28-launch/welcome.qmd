@@ -1,0 +1,13 @@
+---
+title: 'Website launch'
+author: "Aubrey Mpungose"
+date: "2023-06-28"
+categories: [launch, announcement]
+image: "welcome.jpg"
+---
+
+Welcome to my blog. In this blog I will sharing my opinions and work on data science, politics and the social. 
+
+Will see you guys in next post.
+
+-Aubrey
