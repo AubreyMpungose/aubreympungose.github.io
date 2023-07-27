@@ -36,7 +36,7 @@ Read more about me [here](about.qmd).
 
 
 :::
-Check out the latest draft of my course - ["Data Science in R"](https://aubreympungose.github.io/data-science-course/). If you enjoy the content, please consider giving it a star✨ on [Github](hhttps://github.com/aubreympungose/data-science-course).
+Check out the latest draft of my courses - ["Data Science in R"](https://aubreympungose.github.io/data-science-course/) and [Intro to Data Analysis using Python](https://aubreympungose.github.io/python-course/). If you enjoy the content, please consider giving it a star✨ on [Github](hhttps://github.com/aubreympungose/data-science-course).
 
 :::::{.grid}
 ::::{.g-col-12 .g-col-md-12}

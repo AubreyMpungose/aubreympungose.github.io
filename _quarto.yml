@@ -14,18 +14,18 @@ website:
       - icon: newspaper
         href: blog.qmd
         text: Blog
-      - icon: megaphone
-        href: talks.qmd
-        text: Talks
-      - icon: book
-        href: teaching.qmd
-        text: Teaching
-      - icon: book
-        href: research.qmd
-        text: Research
       - icon: file-person
         href: about.qmd
         text: About Me
+      - icon: book
+        href: research.qmd
+        text: Research
+      - icon: book
+        href: teaching.qmd
+        text: Teaching
+      - icon: megaphone
+        href: talks.qmd
+        text: Talks
 
     right:
       - icon: github
