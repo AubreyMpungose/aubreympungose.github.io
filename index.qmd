@@ -30,13 +30,13 @@ about:
 ---
 
 :::{#about-me}
-I am social scientist and a geographer interested in data science. My big research question is: **"how can we understand the social and political sphere in  the digital age?"**. I try to provide answers this question by using large quantitative, text, digital trace data and computational methods. In this blog, I share my opinions on data science and (South Africa) political and social dynamics.
+I am social scientist and a geographer interested in data science. My big research question is: **"how can we understand the social and political sphere in  the digital age?"**. I try to provide answers this question by analysing digital trace data (Big data) using data science and computational social science methods.
 
 Read more about me [here](about.qmd).
 
 
 :::
-Check out the latest draft of my courses - ["Data Science in R"](https://aubreympungose.github.io/data-science-course/) and [Intro to Data Analysis using Python](https://aubreympungose.github.io/python-course/). If you enjoy the content, please consider giving it a star✨ on [Github](hhttps://github.com/aubreympungose/data-science-course).
+Check out my latest courses - ["Data Science in R"](https://aubreympungose.github.io/data-science-course/) and [Intro to Data Analysis using Python](https://aubreympungose.github.io/python-course/). If you enjoy the content, please consider giving it a star✨ on [Github](hhttps://github.com/aubreympungose/data-science-course).
 
 :::::{.grid}
 ::::{.g-col-12 .g-col-md-12}
